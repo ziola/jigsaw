@@ -1,0 +1,29 @@
+{
+  "scores": [
+    {
+      "id": 1,
+      "player": "Zeratul",
+      "score": "12"
+    },
+    {
+      "id": 2,
+      "player": "Sarah Kerrigan",
+      "score": "10"
+    },
+    {
+      "id": 3,
+      "player": "James Raynor",
+      "score": "18"
+    },
+    {
+      "id": 4,
+      "player": "Arcturus Mengsk",
+      "score": "61"
+    },
+    {
+      "id": 5,
+      "player": "Nova Terra",
+      "score": "15"
+    }
+  ]
+}

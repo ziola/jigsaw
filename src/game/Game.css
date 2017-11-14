@@ -1,0 +1,22 @@
+.game {
+    margin: 16px;
+}
+
+.game__header {
+    margin: 8px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.game__body {
+    margin: 8px 0px;
+}
+
+.board {
+    margin-bottom: 8px;
+}
+
+.remaining-pieces {
+    margin-top: 8px;
+}

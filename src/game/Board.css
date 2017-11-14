@@ -1,0 +1,11 @@
+.board {
+    display: flex;
+    flex-wrap: wrap;
+    width: 390px;
+    height: 390px;
+}
+
+.board-cell {
+    height: 130px;
+    width: 130px;
+}
